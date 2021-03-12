@@ -5,23 +5,26 @@
   	width:100%;
    	padding-top: 0px;
 	margin-top: 0px;
-	display: block;
+	display: flex;
 	height: 100vh;
+	background: url("images/professional.svg") center center no-repeat;
+	opacity: .5;
 }
 
 h1{
 	position: absolute;
-  	top: 40%;
-    left: 50%;
+  	top: 70%;
+    left: 80%;
     margin-right: -50%;
-    transform: translate(-50%, -50%)
+    transform: translate(-50%, -50%);
+	color: #6A0DAD;
 }
 
 h3{
-  	color: darkblue;
+  	color: #6A0DAD;
   	position: absolute;
-  	top: 50%;
-    left: 60%;
+  	top: 77%;
+    left: 77%;
     margin-right: -60%;
     transform: translate(-60%, -40%)
 }
