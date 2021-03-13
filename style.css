@@ -11,17 +11,23 @@
 	opacity: .5;
 }
 
-h1{
+.theme-background{
+	background-color: black;
+}
+
+.theme-fontcolor{
+	color: #6A0DAD;
+}
+
+.cover-headerline{
 	position: absolute;
   	top: 70%;
     left: 80%;
     margin-right: -50%;
-    transform: translate(-50%, -50%);
-	color: #6A0DAD;
+    transform: translate(-50%, -50%);	
 }
 
-h3{
-  	color: #6A0DAD;
+.cover-text{
   	position: absolute;
   	top: 77%;
     left: 77%;
