@@ -11,12 +11,20 @@
 	opacity: .5;
 }
 
-.theme-background{
-	background-color: black;
+.theme-background-primary{
+	background-color: #6a1b9a;
 }
 
-.theme-fontcolor{
-	color: #6A0DAD;
+.theme-background-secondary{
+	background-color: #ad1457;
+}
+
+.theme-fontcolor-primary{
+	color: white;
+}
+
+.theme-fontcolor-secondary{
+	color: #ad1457;
 }
 
 .cover-headerline{
